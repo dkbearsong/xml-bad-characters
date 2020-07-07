@@ -1,2 +1,2 @@
 # xml-bad-characters
-This Python program will parse an xml file or folder to look for bad characters and output a csv file listing the tag and text containing the bad characters. Additionally it will give an option to fix bad characters with xml code.
+This Python program will parse xml files or folder to look for specific tags and either find the files that reference a specific query, or will print out the contents of the tag within the file
